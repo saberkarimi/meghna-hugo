@@ -479,6 +479,7 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 20px;
+  font-family: Calibri;
 }
 
 @media (max-width: 480px) {
